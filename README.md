@@ -1,5 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Vega Lite minimal demo
 
+## Setup
+Adding Vega Lite
+```
+yarn add react-vega vega-lite react-vega-lite vega
+```
+
+## Resources
+* https://github.com/vega/react-vega-lite
+* https://vega.github.io/editor/#/
+
+
+----
+## Etc
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
